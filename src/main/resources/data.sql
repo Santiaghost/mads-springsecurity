@@ -1,0 +1,2 @@
+INSERT INTO usuarios (id,username,password,permissons) VALUES ('1', 'santiagosc','123','usuario');
+INSERT INTO usuarios (id,username,password,permissons) VALUES ('2', 'santiagoadmin','123','administrador');
